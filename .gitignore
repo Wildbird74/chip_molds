@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.coverage
+
+# Virtual environments
+.venv
+
+#Caches
+.ruff_cache/
+.cache
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+*.duckdb
+*.duckdb.wal
+
+# Environment
+.env
