@@ -12,7 +12,7 @@ CHIPS = [
     {"name": "Orbital link", "slug": "orbital_link", "icon": "🛰️"},
     {"name": "Guardian protocol", "slug": "guardian", "icon": "🛡️"},
 ]
-ASSETS = Path(__file__).resolve().parent.parent / "assets" / "chips"
+ASSETS = Path(__file__).resolve().parent / "assets" / "chips"
 
 NUM_TYPES = 5
 
